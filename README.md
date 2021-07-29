@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></img>, I am [Tushar](https://www.linkedin.com/in/tushar-amdoskar/)! 😁
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></img> [Tushar](https://www.linkedin.com/in/tushar-amdoskar/) here! 😁
 
 <img src = "https://i.ibb.co/7175ZTh/Untitled-design.png"></img>
 
