@@ -58,6 +58,6 @@ Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student
 ### Random Joke
 <td  style="padding-top:4px"><img align="center" src = "https://readme-jokes.vercel.app/api?theme=pinkish"></td>
 
-<img src = "https://octodex.github.com/images/hula_loop_octodex03.gif"></img>
+<img src = "https://octodex.github.com/images/hula_loop_octodex03.gif" width="200"></img>
 
 
