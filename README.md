@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <a href= "https://www.linkedin.com/in/tushar-amdoskar/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://www.youtube.com/channel/UCo0S3YpZd64-jNsNTTGG1qQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
   <a href= "mailto:tusharvamanamdoskar@gmail.com"><img src="https://img.icons8.com/plasticine/48/000000/gmail-new.png"/></a>
-</p>
+  <a href="https://tusharamd.github.io/"><img src="https://img.icons8.com/color/48/000000/internet--v2.png"/></img></a>
+  <a href="https://github.com/TusharAMD/TusharAMD.github.io/blob/master/Tushar_Amdoskar.pdf"><img src="https://img.icons8.com/plasticine/48/000000/resume.png"></img></a>
+    
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></img> [Tushar](https://www.linkedin.com/in/tushar-amdoskar/) here! 😁
