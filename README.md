@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></img> [Tushar](https://www.linkedin.com/in/tushar-amdoskar/) here! 😁
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&color=A71D00&lines=Welcome+to+My+Castle)](https://git.io/typing-svg)
+
+<img src ="https://image.flaticon.com/icons/png/512/619/619097.png" width=50px></img> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&color=A71D00&lines=Welcome+to+My+Castle)](https://git.io/typing-svg) 
+
 <img src = "https://i.ibb.co/7175ZTh/Untitled-design.png"></img>
 
 Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student from University of Mumbai. I am into Web Development, Image Processing and also ML/AI enthusiast. I have build many personal projects and I love to solve DSA problems daily. I am kind of jack of all trades but when I engage in one project I give 100% to it and complete it within deadline. I have been recently exploring Open Source and I found it very interesting. I hope that in remaining 2 years of my college I can learn more technologies and be a good engineer.
