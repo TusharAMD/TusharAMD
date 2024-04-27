@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img src = "https://i.ibb.co/7175ZTh/Untitled-design.png"></img>
 
-Hello visitor, I am Tushar Amdoskar a Prefinal Year Computer Engineering Student from University of Mumbai. I am into Web Development, Image Processing and also ML/AI enthusiast. I have build many personal projects and I love to solve DSA problems daily. I am kind of jack of all trades but when I engage in one project I give 100% to it and complete it within deadline. I have been recently exploring Open Source and I found it very interesting. I hope that in remaining 2 years of my college I can learn more technologies and be a good engineer.
+Hey there, I am Tushar Amdoskar, currently Systems Engineer at Tata Consultancy Services and got graduated in 2023 from University of Mumbai. Coding is not only my job but also my passion. I love exploring new innovation in tech and how it can make our life bliss. My tech stack mainly includes Python, Javascript, Flask, React js, OpenCV, Tensorflow etc. Together we can make amazing projects.
 
 - 🔭 I’m currently working on privacy video chat app
 - 💬 We can discuss anything related to tech and I am always eager to learn more 
