@@ -29,17 +29,17 @@ Here are some ideas to get you started:
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></img> [Tushar](https://www.linkedin.com/in/tushar-amdoskar/) here! 😁
 
-<img src ="https://image.flaticon.com/icons/png/512/619/619097.png" width=50px></img> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&color=A71D00&lines=Welcome+to+My+Castle)](https://git.io/typing-svg) 
+
 
 <img src = "https://i.ibb.co/7175ZTh/Untitled-design.png"></img>
 
 Hey there, I am Tushar Amdoskar, currently Systems Engineer at Tata Consultancy Services and got graduated in 2023 from University of Mumbai. Coding is not only my job but also my passion. I love exploring new innovation in tech and how it can make our life bliss. My tech stack mainly includes Python, Javascript, Flask, React js, OpenCV, Tensorflow etc. Together we can make amazing projects.
 
-- 🔭 I’m currently working on privacy video chat app
+- 🔭 I’m currently working on Voice Powered Game
 - 💬 We can discuss anything related to tech and I am always eager to learn more 
 - 📫 How to reach me: tusharvamanamdoskar@gmail.com
 - ⚡ Fun fact: Connect me on linkedin I post my projects there [Tushar Amdoskar](https://www.linkedin.com/in/tushar-amdoskar/)
-- 📝 [Resume](https://github.com/TusharAMD/TusharAMD.github.io/blob/master/Tushar_Amdoskar.pdf)
+
 
 **Languages and Tools:** 
 
